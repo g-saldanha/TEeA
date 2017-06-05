@@ -2,6 +2,7 @@
 # INE5448 - Tópicos Especiais em Aplicações Tecnológicas I
 
 Objetivos
+
 Geral: Obter uma visão geral dos principais conceitos relacionados ao teste de software, incluindo técnicas e ferramentas.
 
 Específicos:
